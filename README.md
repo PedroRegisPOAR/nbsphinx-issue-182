@@ -1,8 +1,8 @@
 
 
 The objective of this repository is to find why the css of nbsphinx is not working
-for me, even after (this issue)[https://github.com/spatialaudio/nbsphinx/issues/182]
-and after this (pull request)[https://github.com/spatialaudio/nbsphinx/pull/228].
+for me, even after [this issue](https://github.com/spatialaudio/nbsphinx/issues/182)
+and after this [pull request](https://github.com/spatialaudio/nbsphinx/pull/228).
 
 
 First in some folder in your computer make a folder and open a terminal in this
